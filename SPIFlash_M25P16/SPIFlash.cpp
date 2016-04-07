@@ -1,5 +1,5 @@
 // * Copyright (c) 2013 Shinichiro Nakamura (https://github.com/shintamainjp)
-// > Updated April. 7, 2016, George KC, Converting code to Arduino version. (https://github.com/georgekc)
+// > Updated April. 7, 2016, George KC,Arduino version. (https://github.com/georgekc)
 // **********************************************************************************
 // License
 // **********************************************************************************
